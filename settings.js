@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @AS
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
