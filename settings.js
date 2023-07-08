@@ -34,15 +34,15 @@ global.footer = 'AS' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/@arriesstorejb'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/DO5TebExsU51o3YbEVF8Gl'
+global.ig = 'https://instagram.com/satyadamar'
+global.mygc = 'https://chat.whatsapp.com/LQJGSfXPnPM769zp45hFh9'
 global.myweb = 'https://s.id/arriesstore'
 global.email = 'satyadamar54@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© AS-Satya' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'AS' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'AS-MD' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
